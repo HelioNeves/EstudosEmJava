@@ -1,0 +1,14 @@
+package visao;
+
+import javax.swing.JFrame;
+
+public class CalculadoraVisao extends JFrame {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -5067786249164615486L;
+
+	
+	
+}
